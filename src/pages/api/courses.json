@@ -1,0 +1,169 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "img": "/assets/img/course/course-thumb-01.jpg",
+      "icon": "/assets/img/icon/course-3-avata-1.png",
+      "title": "Introduction to Web Design",
+      "cls_text": "35",
+      "st_text": "500",
+      "start_text": "4.5",
+      "course_title": "Web Design",
+      "ct_color": "c-color-yellow",
+      "course_link": "/course-details",
+      "course_name": "Design",
+      "cn_color": "c-color-red",
+      "course_price": "77.77",
+      "total_start": "777",
+      "about": "Learn the fundamentals of web design and create stunning websites with HTML, CSS, and JavaScript. This course covers the principles of user experience, responsive design, and best practices for designing visually appealing websites.",
+      "instructor": {
+        "id": "1",
+        "img": "/assets/img/bg/insуtructor-bg-01.jpg",
+        "name": "John Smith",
+        "total_class": "35",
+        "total_st": "125",
+        "title": "Instructor",
+        "cls_text": "35",
+        "st_text": "11 111",
+        "start_text": "4.7",
+        "about": "Sarah Thompson is a talented web designer specializing in responsive design. She has worked on numerous projects and her designs have received accolades for their responsiveness and aesthetics. Sarah is dedicated to helping students master the art of responsive web design."
+      },
+      "reviews": [
+        {
+          "id": "1",
+          "img": "/assets/img/icon/c-details-avata-01.png",
+          "name": "Sarah Johnson",
+          "review_text": "John's course was amazing! I learned so much about web design and his explanations were clear and concise.",
+          "review_time": "a week ago",
+          "rating": "5"
+        },
+        {
+          "id": "2",
+          "img": "/assets/img/icon/c-details-avata-02.png",
+          "name": "Michael Thompson",
+          "review_text": "The course was well-structured and the instructor provided practical examples. However, I would have liked more hands-on exercises.",
+          "review_time": "a week ago",
+          "rating": "4"
+        },
+        {
+          "id": "3",
+          "img": "/assets/img/icon/c-details-avata-03.png",
+          "name": "Emily Davis",
+          "review_text": "John is an excellent instructor. His course helped me improve my web design skills and I'm now confident in creating professional websites.",
+          "review_time": "a week ago",
+          "rating": "5"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "img": "/assets/img/course/course-thumb-02.jpg",
+      "icon": "/assets/img/icon/course-avata-02.png",
+      "title": "JavaScript for Beginners",
+      "cls_text": "12",
+      "st_text": "800",
+      "start_text": "4.9",
+      "course_title": "Web Development",
+      "ct_color": "c-color-green",
+      "course_link": "/course-details",
+      "course_name": "Programming",
+      "cn_color": "c-color-blue",
+      "course_price": "99",
+      "total_start": "125",
+      "about": "Dive into the world of JavaScript and learn the fundamentals of programming. This course covers variables, functions, loops, and object-oriented programming concepts. Gain hands-on experience by building interactive web applications.",
+      "instructor": {
+        "id": "2",
+        "img": "/assets/img/bg/instruc-in-02.jpg",
+        "name": "Sam Johnson",
+        "total_class": "35",
+        "total_st": "291",
+        "title": "Instructor",
+        "cls_text": "35",
+        "st_text": "15 231",
+        "start_text": "5",
+        "about": "Sam Johnson is a passionate developer with a strong background in JavaScript. She has worked on various projects and her expertise lies in front-end development. Lisa is known for her patience and ability to explain complex concepts in a simple manner."
+      },
+      "reviews": [
+        {
+          "id": "1",
+          "img": "/assets/img/icon/c-details-avata-01.png",
+          "name": "David Brown",
+          "review_text": "Sam's course was fantastic! She made JavaScript easy to understand and I loved the practical exercises",
+          "review_time": "a week ago",
+          "rating": "5"
+        },
+        {
+          "id": "2",
+          "img": "/assets/img/icon/c-details-avata-02.png",
+          "name": "Jennifer Adams",
+          "review_text": "The course was well-paced and the instructor provided clear explanations. However, I would have liked more advanced topics covered.",
+          "review_time": "a week ago",
+          "rating": "4.5"
+        },
+        {
+          "id": "3",
+          "img": "/assets/img/icon/c-details-avata-03.png",
+          "name": "Robert Wilson\n",
+          "review_text": "Lisa is an amazing teacher. Her course helped me grasp JavaScript concepts quickly and I'm now confident in my programming skills.",
+          "review_time": "a week ago",
+          "rating": "5"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": "/assets/img/course/course-thumb-03.jpg",
+      "icon": "/assets/img/icon/course-avata-03.png",
+      "title": "Responsive Web Design",
+      "cls_text": "8",
+      "st_text": "400",
+      "start_text": "4.8",
+      "course_title": "Web Design",
+      "ct_color": "c-color-purple",
+      "course_link": "/course-details",
+      "course_name": "Design",
+      "cn_color": "c-color-red",
+      "course_price": "49.99",
+      "total_start": "375",
+      "about": "Learn how to create responsive websites that adapt to different screen sizes and devices. This course covers media queries, flexbox, and CSS grid to build flexible and visually appealing layouts. Enhance your web design skills and create user-friendly websites.",
+      "instructor": {
+        "id": "3",
+        "img": "/assets/img/bg/instruc-in-03.jpg",
+        "name": "Sarah Thompson",
+        "total_class": "120",
+        "total_st": "1543",
+        "title": "Instructor",
+        "cls_text": "35",
+        "st_text": "11 111",
+        "start_text": "4.7",
+        "about": "John Smith is a seasoned web designer with over 10 years of experience. He has worked with numerous clients and his designs have won several awards. His teaching style is engaging and he ensures that students grasp the concepts effectively."
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "img": "/assets/img/icon/c-details-avata-01.png",
+          "name": "Mark Davis",
+          "review_text": "Sarah's course was excellent! I learned a lot about responsive design techniques and her examples were very helpful.",
+          "review_time": "a week ago",
+          "rating": "4.5"
+        },
+        {
+          "id": 2,
+          "img": "/assets/img/icon/c-details-avata-02.png",
+          "name": "Laura Johnson",
+          "review_text": "The course provided a good introduction to responsive design principles. However, I would have liked more in-depth coverage of advanced techniques.",
+          "review_time": "a week ago",
+          "rating": "4"
+        },
+        {
+          "id": 3,
+          "img": "/assets/img/icon/c-details-avata-03.png",
+          "name": "Alex Wilson",
+          "review_text": "Sarah is a great instructor. Her course helped me understand the intricacies of responsive web design and I can now create websites that look great on any device.",
+          "review_time": "a week ago",
+          "rating": "5"
+        }
+      ]
+    }
+  ]
+}
